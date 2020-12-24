@@ -6,15 +6,10 @@
   url: /about/
   external: false # set true if you using external link, see below
 
-- title: thoughts
-  url: /thoughts/
+- title: writing
+  url: /writing/
   external: false
 
 # - title: travel
 #   url: /thoughts/
 #   external: false
-
-# Example:
-# - title: github
-#   url: https://github.com/piharpi/jekyll-klise
-#   external: true

@@ -1,5 +1,5 @@
 ---
-title: The Myth of the Minority Applicant
+title: The myth of the minority applicant
 date: 2020-09-01 10:00:00 -07:00
 tags: [higher education, inequality]
 description: My thoughts on diversity in higher education

@@ -8,13 +8,15 @@ comments: false
 
 <img src="/assets/img/zion.jpeg" width="200" height="200" class="center" alt="Me at Angel's Landing"/>
 
-I was born in the Midwest and grew up in the Sonoran desert. After 8 years in the desert, I adamantly believe that desert sunsets are the most beautiful sunsets in the world. I also love hiking (the picture here is of Angel's Landing in Zion National Park) and am quite appalled that people in the East can "hike" with no mountains.
+I was born in the Midwest and grew up in the Sonoran desert. After 8 years in the desert, I adamantly believe that desert sunsets are the most beautiful sunsets in the world. I also love hiking (the picture here is of Angel's Landing in Zion National Park) and am quite appalled that people in the East can "hike" with no mountains. 
+
+If you want to check out my blog, you can find it here. <a href="https://github.com/mlong93/personal-website">Here</a> is the repository for this website.
 
 ### Academic interests
-As a kid, I loved classical and tactical history. Sometime during high school, I decided to be an engineer and now hope to contribute to the intersection of AI/robotics (thank you, <a href="https://twitter.com/liu_cixin?lang=en">Liu Cixin</a>). This past summer, I worked with <a href="https://space.mit.edu/home/tegmark/">Prof. Max Tegmark</a> on a news bias project and also built a smart news aggregator iOS app (link coming soon!). I will be learning about computational chemistry at <a href="https://www.newyorker.com/tech/annals-of-technology/jonathan-rothbergs-race-to-invent-the-ultimate-rapid-at-home-covid-19-test">Homodeus</a> during January 2021 and building internal tools at <a href="https://corp.roblox.com/technology/">Roblox</a> for summer 2021.
+As a kid, I loved classical and tactical history. Sometime during high school, I decided to be an engineer and now hope to contribute to the intersection of AI/robotics (thank you, <a href="https://twitter.com/liu_cixin?lang=en">Liu Cixin</a>). This past summer, I worked with <a href="https://space.mit.edu/home/tegmark/">Prof. Max Tegmark</a> on a news bias project and also built a smart news aggregator iOS app (link coming soon!). I will be learning about computational chemistry at <a href="https://www.newyorker.com/tech/annals-of-technology/jonathan-rothbergs-race-to-invent-the-ultimate-rapid-at-home-covid-19-test">Detect</a> during January 2021 and building internal tools at <a href="https://corp.roblox.com/technology/">Roblox</a> for summer 2021.
 
 ### Curiosities
-Despite going to an engineering school, I still am very much fascinated by the humanities. I currently enjoy reading about the political economy, <a href="http://peterturchin.com/cliodynamics/">cliodynamics </a>, <a href="https://www.neruda.uchile.cl/obra/obraversosdelcapitan5.html"> Spanish poetry</a>, abstract expressionism, and <a href="https://cti.lib.virginia.edu/frame.htm"> classical Chinese literature </a>. Do <a href="mailto:mflong00@gmail.com">email</a> me if you want to talk or have a book recommendation!
+Despite going to an engineering school, I still am very much fascinated by the humanities. I currently enjoy reading about the political economy, <a href="http://peterturchin.com/cliodynamics/">cliodynamics </a>, <a href="https://www.neruda.uchile.cl/obra/obraversosdelcapitan5.html"> Spanish poetry</a>, abstract expressionism, and <a href="https://cti.lib.virginia.edu/frame.htm">classical Chinese literature</a>. Do <a href="mailto:mflong00@gmail.com">email</a> me if you want to talk or have a book recommendation!
 
 ### Goals (in no particular order)
 * Visit 10 countries during my time at MIT (7 more to go!)
@@ -47,4 +49,4 @@ Despite going to an engineering school, I still am very much fascinated by the h
 * Pachinko
 
 ### Why I didn't make my own Jekyll theme
-Honestly I'm not the best designer so I just found a Jekyll theme that looks cool, forked it, revamped it, and deployed this website. This is <strong>not</strong> a professional/technical website. I did not create this website to demonstrate my web dev skills. I just want to get my thoughts out.
+Honestly I'm not the best designer so I found a Jekyll theme that looked cool, revamped it, and deployed it. I just want to share my thoughts and some projects. If you're interested in my resume, please <a href="mailto:mflong00@gmail.com">email me</a>!

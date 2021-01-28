@@ -5,3 +5,6 @@ _site/
 _drafts
 klise-*.gem
 Gemfile.lock
+travel.html
+_assets/map.js
+_sass/map.scss

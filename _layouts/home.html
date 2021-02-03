@@ -4,7 +4,7 @@ home: true
 ---
 
 <h3 class="posts-item-note" aria-label="Recent Posts">Pinned</h3>
-{%- for post in site.posts -%} <!-- limit: site.number_of_posts -%} -->
+{%- for post in site.posts reversed -%} <!-- limit: site.number_of_posts -%} -->
   {% if post.pinned %}
     <article class="post-item">
       <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>

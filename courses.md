@@ -6,18 +6,22 @@ excerpt: Hello, I'm just a college student trying to untangle my thoughts.
 comments: false
 ---
 
-A lot of my course-picking philosophy is inspired by [a good friend of mine's](https://zhengdongwang.com/blue_book/). I remember before I started college, he warned me not to double major. At the time, I couldn't understand why but by freshman spring, I realized he was right. Double majoring is akin to piling on more required courses. More required courses means less time to take courses that interest you.
+A lot of my course-picking philosophy is inspired by [a good friend of mine's](https://zhengdongwang.com/blue_book/). Before I started college, he warned me not to double major. At the time, I couldn't understand why but by freshman spring, I realized he was right. Double majoring is akin to piling on more required courses. More required courses means less time to take courses that interest you.
 
-To me, college is a time for exploration. Some might see it as a springboard for careers, and I respect that, but my goal is to grow as a person and a thinker at MIT. With that said, here's a list of courses I've taken and plan to take:
+To me, college is a time for exploration. Some might see it as a springboard for careers, and I respect that, but my goal is to grow as a person and a thinker at MIT. With that said, here's a list of courses I've taken:
 
-[//]: <> (**Spring 2021 (still figuring this out)**)
-[//]: <> (6.08 Intro to EECS via Interconnected Embedded Systems (J. Steinmeyer))
-[//]: <> (6.036 Introduction to Machine Learning (L. Kaelbling))
-[//]: <> (6.031 Elements of Software Construction (R. Miller))
-[//]: <> (6.851 Advanced Data Structures (E. Demaine))
-[//]: <> (8.282 Introduction to Astronomy (M. Tegmark))
-[//]: <> (21G.s04 Three Kingdoms: From History to Fiction, Comic, Film and Game (E. Teng))
-[//]: <> (21M.250 Nineteenth Century Music (T. Neff))
+**Fall 2021**
+CHNSLIT 114 Premodern Chinese Literature (X. Tian)
+3.091 Introduction to Solid-State Chemistry (D. Sadoway, R. Jaramillo)  
+6.002 Circuits and Electronics (K. Berggren)
+6.804 Computational Cognitive Science (J. Tenenbaum)
+6.UAT Oral Communication (T. Eng)
+
+**Spring 2021**  
+6.08 Intro to EECS via Interconnected Embedded Systems (J. Steinmeyer)
+6.036 Introduction to Machine Learning (L. Kaelbling)
+21G.s04 Three Kingdoms: From History to Fiction, Comic, Film and Game (E. Teng)
+21M.250 Nineteenth Century Music (T. Neff)
 
 **IAP 2021**  
 6.s089 Introduction to Quantum Computing (A. Karamlou)  

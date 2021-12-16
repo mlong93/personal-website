@@ -12,12 +12,12 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Mindy Long
   bio: >-
-    I'm Mindy, a sophomore at MIT studying computer science and history. In my free time, I love to read, hike, and stargaze.
+    I'm Mindy, a junior at MIT studying electrical engineering and computer science. In my free time, I love to read, hike, and stargaze.
   # username: username # general username
   github: mlong93 # github username
   # twitter: twitter_username
   # facebook: facebook_username
-  email: mflong 'at' gmail 'dot' com
+  email: mflong00 'at' gmail 'dot' com
   avatar: /assets/img/me.jpeg
 
 # URL settings

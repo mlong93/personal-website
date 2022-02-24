@@ -15,7 +15,7 @@ If you want to check out my blog, you can find it [here](https://mlong93.github.
 ### Academic interests
 As a kid, I loved classical and tactical history. Sometime during high school, I decided to be an engineer and now hope to build a city in space (thank you, [Liu Cixin](https://twitter.com/liu_cixin?lang=en)). During summer 2020, I worked with [Prof. Max Tegmark](https://space.mit.edu/home/tegmark/) on a news bias project and also built a smart news aggregator iOS app, [Improve the News](https://apps.apple.com/us/app/improve-the-news/id1554856339). I worked on a bioinformatics project at [Detect](https://www.newyorker.com/tech/annals-of-technology/jonathan-rothbergs-race-to-invent-the-ultimate-rapid-at-home-covid-19-test) during January 2021 and built internal health-tracking tools at [Roblox](https://corp.roblox.com/technology/) during summer 2021.
 
-I will be working as a software engineer at [Five Rings Capital](https://fiverings.com) during January 2022 and [Stripe](https://stripe.com) for summer 2022, both in New York City.
+I will be working as a software engineer at [Five Rings Capital](https://fiverings.com) during January 2022.
 
 [Check out](../courses) a list of the classes I've taken.
 

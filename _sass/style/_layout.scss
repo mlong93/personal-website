@@ -158,8 +158,9 @@
 
 // Author
 .author {
-  margin-top: 6.3rem;
+  width: 600px;
   margin-bottom: 7.2rem;
+  margin-top: 6.3rem;
   text-align: left;
   overflow: auto;
 
@@ -167,10 +168,14 @@
     margin-bottom: 3em;
   }
 
+  #author-img {
+    float: right;
+    width: 25%;
+    margin-top: 1em;
+  }
+
   .author-avatar {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
+    border-radius: 100%;
     user-select: none;
     background-color: $black;
     -ms-user-select: none;
@@ -178,7 +183,11 @@
     -webkit-animation: 0.5s ease-in forwards fadein;
     animation: 0.5s ease-in forwards fadein;
     opacity: 1;
-    float: right;
+  }
+
+  .author-header {
+    float: left;
+    width: fit-content;
   }
 
   .author-name {
@@ -189,27 +198,25 @@
   }
 
   .author-bio {
-    margin-top: 20px;
     opacity: 0.9;
     max-width: 393px;
     line-height: 1.688;
     position: relative;
-    float: left;
+    margin-top: 100px;
   }
 
   .links-wrap {
     position: relative;
     float: left;
-    margin-top: 10px;
-    margin-left: 100px;
-    left: -112px;
+    margin-top: 50px;
+    left: -161px;
   }
 
   .links-wrap a {
     float: left;
     margin: 0 12px;
     transition: filter 0.25s ease;
-    padding-bottom:2px;
+    padding-bottom: 2px;
   }
 }
 
@@ -265,7 +272,7 @@
 
 // Footer
 .footer {
-  margin-top: 8em;
+  margin-top: 2em;
   margin-bottom: 2em;
   text-align: center;
 

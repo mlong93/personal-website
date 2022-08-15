@@ -1,14 +1,18 @@
 <div class="author">
-  <h2 class="author-name">{{ site.author.name }}</h2>
-  <img
-    class="author-avatar"
-    src="{{ site.author.avatar }}"
-    alt="{{ site.author.username }}"
-  />
-  <div class="links-wrap">
-    {% for item in site.data.social_links %}
-      <a href="{{ item.url }}" target="_blank"><p class="link">{{item.title}} </p></a>
-    {% endfor %}
+  <div class="author-header">
+    <h2 class="author-name">{{ site.author.name }}</h2>
+    <div class="links-wrap">
+      {% for item in site.data.social_links %}
+        <a href="{{ item.url }}" target="_blank"><p class="link">{{item.title}} </p></a>
+      {% endfor %}
+    </div>
+    <p class="author-bio">I'm <a href="/about">Mindy</a>, a senior at MIT studying electrical engineering and computer science. I love to build, read, hike, and stargaze.</p>
   </div>
-  <p class="author-bio">I'm <a href="/about">Mindy</a>, a senior at MIT studying electrical engineering and computer science. I love to build, read, hike, and stargaze.</p>
+  <div id="author-img">
+    <img
+      class="author-avatar"
+      src="{{ site.author.avatar }}"
+      alt="{{ site.author.username }}"
+    />
+  </div>
 </div>

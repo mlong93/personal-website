@@ -6,19 +6,17 @@ lang: en-US
 timezone: US/Arizona
 image: assets/img/zion.jpeg
 repo: https://github.com/mlong93/personal-website
-mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Mindy Long
-  bio: >-
-    I'm Mindy, a junior at MIT studying electrical engineering and computer science. In my free time, I love to read, hike, and stargaze.
+  bio:
   # username: username # general username
   github: mlong93 # github username
   # twitter: twitter_username
   # facebook: facebook_username
   email: mflong00 'at' gmail 'dot' com
-  avatar: /assets/img/me.jpeg
+  avatar: /assets/img/may_2022.jpg
 
 # URL settings
 url: "https://mindylong.me" #
@@ -61,7 +59,6 @@ jekyll_compose:
 number_of_posts: 5
 
 # Build settings
-# theme: klise
 sass:
   style: compressed
 

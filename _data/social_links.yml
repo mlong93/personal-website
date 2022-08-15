@@ -1,6 +1,8 @@
-- icon: /assets/img/github.svg
+- title: git
   url: https://github.com/mlong93
-- icon: /assets/img/gmail.svg
+- title: linkedin
+  url: https://www.linkedin.com/in/mindy-long-a1a5a1136/
+- title: mail
   url: mailto:mflong00@gmail.com
-- icon: /assets/img/goodreads.svg
+- title: books
   url: https://www.goodreads.com/mflong

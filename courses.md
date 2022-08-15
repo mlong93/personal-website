@@ -6,9 +6,9 @@ excerpt: Hello, I'm just a college student trying to untangle my thoughts.
 comments: false
 ---
 
-A lot of my course-picking philosophy is inspired by [a good friend of mine's](https://zhengdongwang.com/blue_book/). Before I started college, he warned me not to double major. At the time, I couldn't understand why but by freshman spring, I realized he was right. Double majoring is akin to piling on more required courses. More required courses means less time to take courses that interest you.
+A lot of my course-picking philosophy is inspired by [a good friend](https://zhengdongwang.com/blue_book/). Before I started college, he warned me not to double major. At the time, I couldn't understand why, but later I realized he was right. Double majoring piles you with more required courses. More required courses means less time to take courses that interest you.
 
-To me, college is a time for exploration. Some might see it as a springboard for careers, and I respect that, but my goal is to grow as a person and a thinker at MIT. With that said, here's a list of courses I've taken:
+To me, college is a time for exploration. My goal is to grow as a person and a thinker at MIT. With that said, here's a list of courses I've taken:
 
 **Fall 2021**
 CHNSLIT 114 Premodern Chinese Literature (X. Tian)

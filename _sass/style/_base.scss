@@ -229,12 +229,12 @@ h6 > a {
 
 // Link
 a {
-  color: inherit;
-  text-decoration-color: $gray;
-  text-decoration-thickness: 2px;
+  color: $black;
+  text-decoration-color: $black;
+  text-decoration-thickness: 1.3px;
 
   &:hover {
-    color: $text-link-blue-active;
+    color: $text-link-orange;
   }
 
   &:focus {

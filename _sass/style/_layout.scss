@@ -53,7 +53,6 @@
     line-height: $base-line-height + 0.4;
     text-decoration: none;
     padding: 5px 8px;
-    opacity: 0.7;
     letter-spacing: 0.3px;
 
     &:hover {
@@ -182,32 +181,34 @@
     -webkit-animation: 0.5s ease-in forwards fadein;
     animation: 0.5s ease-in forwards fadein;
     opacity: 1;
+    right: 100px;
   }
 
   .author-header {
     float: left;
-    width: fit-content;
+    width: 70%;
   }
 
   .author-name {
-    font-size: 1.7em;
+    font-size: 2em;
     margin-bottom: 2px;
     position: relative;
     float: left;
   }
 
   .author-bio {
-    max-width: 393px;
+    max-width: 370px;
     line-height: 1.688;
     position: relative;
-    margin-top: 100px;
+    margin-top: 20px;
+    float: left;
   }
 
   .links-wrap {
     position: relative;
     float: left;
-    margin-top: 50px;
-    left: -161px;
+    margin-top: 10px;
+    left: -12px;
   }
 
   .links-wrap a {
@@ -336,17 +337,17 @@
     font-weight: $bold-weight;
     line-height: 1.1;
     color: $black;
-    text-shadow: 1px 0px 0px $text-link-blue;
+    text-shadow: 1px 0px 0px $text-link-orange;
   }
   .phrase {
     color: $text-base-color;
   }
   .solution {
-    color: $text-link-blue;
+    color: $text-link-orange;
     letter-spacing: 0.5px;
   }
   .solution:hover {
-    color: $text-link-blue-active;
+    color: $text-link-orange;
   }
 }
 

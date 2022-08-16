@@ -1,24 +1,25 @@
 // Fonts preferences
-$sans-family: Roboto, sans-serif;
+$sans-family: EB Garamond, sans-serif;
 $mono-family: Consolas, monospace;
-$base-font-size: 16px;
+$base-font-size: 20px;
 $medium-font-size: $base-font-size * 0.938;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 // Font weight
-$normal-weight: 400;
+$normal-weight: 500;
 $bold-weight: 700;
 
 //Light Colors
 $text-base-color: #131418;
-$text-link-blue: #008ecc;
-$text-link-blue-active: #e98050;
+$text-link-orange: #f0550d;
 
 $black: #0d122b;
+$light: #ececec;
 $smoke: #d2c7c7;
 $gray: #6b7886;
 $white: #fff;
+$bright-gray: #8899a6;
 
 // Width of the content area
 $wide-size: 890px;

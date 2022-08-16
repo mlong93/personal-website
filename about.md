@@ -16,7 +16,7 @@ comments: false
 * I created and managed teams at [HackMIT](https://hackmit.org). I spearheaded the development and release of our [first mobile app](https://apps.apple.com/us/app/hackmit/id1582182786) and maintained our in-house [project submission platform](https://spectacle.hackmit.org).
 * I built a controllable, line-tracking [robot](https://www.dropbox.com/s/pf0zssbjoezy4pc/6.115-final-project-motorized-cart.MOV?dl=0) with obstacle detection. 
 * I was the first iOS engineer on [Improve the News](https://apps.apple.com/us/app/improve-the-news/id1554856339), a smart news aggregator. I built the app during summer 2020 while working with [Prof. Max Tegmark](https://space.mit.edu/home/tegmark/) on a new bias project. Check it out!
-* [Email me](mailto:mflong00@gmail.com) to learn more about my work!
+* [Email me](mailto:mflong00@gmail.com) 📩 to learn more about my work!
 
 # Interests
 * **Space**   
@@ -34,7 +34,7 @@ What good is science if we don't know how to use it to improve the human experie
 ## What I do for fun
 I don't consume mass media. I'm not on TikTok, Youtube, Twitch, Discord, BeReal, etc. I don't have any streaming subscriptions, and the only TV I watch is sports -- specifically the NFL, NBA, NCAA, and tennis. The only news publication I subscribe to is [The Economist](https://www.economist.com).
 
-I like to read, bake, hike, and plan trips. Occasionally I watch film. My favorite movie is [Burning](https://www.imdb.com/title/tt7282468/), and I tend to like short stories and films that make me question what I see on screen.
+I like to read, bake, hike, and plan trips. Occasionally I watch film. My favorite movie is [Burning](https://www.imdb.com/title/tt7282468/), and I like short stories and films that make me question what I see on screen.
 
 # Favorites
 ## Books
@@ -56,6 +56,7 @@ I like to read, bake, hike, and plan trips. Occasionally I watch film. My favori
 * A Thousand Splendid Suns
 * Pachinko
 * All the Light We Cannot See
+<br/><br/> 
 
 ## Poems
 * [*Romance sonámbulo*](https://poets.org/poem/romance-sonambulo#spanish)
@@ -63,7 +64,7 @@ I like to read, bake, hike, and plan trips. Occasionally I watch film. My favori
     * [*Poema VII*](https://www.gavilan.edu/academic/spanish/gaspar/html/27_09.html)
     * [*Poema XX*](https://www.gavilan.edu/academic/spanish/gaspar/html/27_22.html)
 * [*虞美人*](https://www.consolatio.com/2013/01/li-yu-how-much-sorrow-can-there-be-.html)
-
+<br/><br/> 
 
 ## Quotes
 **[*Seven Pillars of Wisdom*](https://www.goodreads.com/book/show/57936.Seven_Pillars_of_Wisdom), T.E. Lawrence**   
@@ -75,6 +76,7 @@ Sky and stars.
    
 **[*Why Literature?*](https://newrepublic.com/article/78238/mario-vargas-llosa-literature), Mario Vargas Llosa**   
 But literature has been, and will continue to be, as long as it exists, one of the common denominators of human experience through which human beings may recognize themselves and converse with each other, no matter how different their professions, their life plans, their geographical and cultural locations, their personal circumstances. It has enabled individuals, in all the particularities of their lives, to transcend history: as readers of Cervantes, Shakespeare, Dante, and Tolstoy, we understand each other across    space and time, and we feel ourselves to be members of the same species because, in the works that these writers created, we learn what we share as human beings, what remains common in all of us under the broad range of differences that separate us. 
+<br/><br/> 
 
 **[*Kafka on the Shore*](https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore?ac=1&from_search=true&qid=ggDp0LyIhk&rank=1), Haruki Murakami**   
 Memories warm you up from the inside but they also tear you apart.

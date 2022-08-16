@@ -1,47 +1,52 @@
 ---
-title: about
+title: readme
 permalink: /about/
 layout: page
 excerpt: Hello, I'm just a college student trying to untangle my thoughts.
 comments: false
 ---
+# Currently
+* I'm studying abroad at ETH Zurich (EECS) for fall 2022. I'm also embarking on a northern Europe tour (UK, Copenhagen, Stockholm) from now until Sept. 5.
+* I'm training for my [first marathon](https://www.athensauthenticmarathon.gr) in Athens, Greece on Nov. 12. A friend spontaneously convinced me to sign up in early July. I've never competitively ran more than a 5k so feel free to give me any tips!
+* I'm an arts editor for [The Tech](https://thetech.com). I try to [write](https://thetech.com/authors/mindy-long) timely articles on books and food.
+* I'm deciding where I want to work after I graduate in June 2023. I was recently admitted into [Neo's Startup Connect](https://neo.com), where I've stumbled across some really amazing companies. Generally, I'm interested in early-stage, high-growth startups doing work in space infrastructure, fintech, and social good. Things that stand out to me: engineers driving product decisions, talking directly to consumers, working around the tech stack, wearing multiple hats👷‍♀️⚒️
 
-<img src="/assets/img/lake-of-glass.jpeg" width="200" height="200" class="center" alt="Me at Lake of Glass (Rocky Mountain National Park)"/>
+# Previously
+* I recently wrapped up an internship on Stripe's [Financial Connections](https://stripe.com/financial-connections) platform. I researched, designed, and implemented an ownership parser and address matching algorithm for fraud detection.
+* I created and managed teams at [HackMIT](https://hackmit.org). I spearheaded the development and release of our [first mobile app](https://apps.apple.com/us/app/hackmit/id1582182786) and maintained our in-house [project submission platform](https://spectacle.hackmit.org).
+* I built a controllable, line-tracking [robot](https://www.dropbox.com/s/pf0zssbjoezy4pc/6.115-final-project-motorized-cart.MOV?dl=0) with obstacle detection. 
+* I was the first iOS engineer on [Improve the News](https://apps.apple.com/us/app/improve-the-news/id1554856339), a smart news aggregator. I built the app during summer 2020 while working with [Prof. Max Tegmark](https://space.mit.edu/home/tegmark/) on a new bias project. Check it out!
+* [Email me](mailto:mflong00@gmail.com) to learn more about my work!
 
-I was born in the Midwest and grew up in the Sonoran desert. After 8 years amidst mountains and cacti, I adamantly believe that deserts have the most stunning sunsets. I also love hiking (the picture above is of the Lake of Glass at Rocky Mountain National Park) and am quite appalled that there are no rocky mountains on the East Coast.
+# Interests
+* **Space**   
+Space reminds me that there are worlds greater than mine and that of humanity. I first became enamored by it as a child after receiving nonfiction books from my parents on stars and planets. After reading [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem), I decided that humanity's future lies in the stars and I want to build it.
+* **8051/as31**   
+Assembly is cool. Having nanosecond control over your code and knowing exactly what's on the stack is so powerful.
+* **Reading**   
+I was a voracious reader much before I was a science nerd. I actually read everything: classics, history, memoirs, economic development, historical fiction, science fiction, and poetry. Check out [what I've read](https://www.goodreads.com/mflong) and some of my [favorites](#favorite-reads). 
+* **History**   
+If reading was my first love, history was my second. Growing up, I was a classical and tactical history geek. After I read *Guns, Germs, and Steel*, I became more fascinated with *why* and *how* things happened as opposed to *what* happened. I'm also interested in classical China, specifically the role of women throughout the dynasties and cross-cultural exchange prior to the Song.
 
-If you want to check out my blog, you can find it [here](https://mlong93.github.io). [Here](https://github.com/mlong93/personal-website) is the repository for this website.
+## Curiosities
+What good is science if we don't know how to use it to improve the human experience? I love the humanities, and though I am not an expert in many of these fields, I enjoy learning about abstract expressionism, classical Chinese literature, and film theory. 
 
-### Academic interests
-As a kid, I loved classical and tactical history. Sometime during high school, I decided to be an engineer and now hope to build a city in space (thank you, [Liu Cixin](https://twitter.com/liu_cixin?lang=en)). During summer 2020, I worked with [Prof. Max Tegmark](https://space.mit.edu/home/tegmark/) on a news bias project and also built a smart news aggregator iOS app, [Improve the News](https://apps.apple.com/us/app/improve-the-news/id1554856339). I worked on a bioinformatics project at [Detect](https://www.newyorker.com/tech/annals-of-technology/jonathan-rothbergs-race-to-invent-the-ultimate-rapid-at-home-covid-19-test) during January 2021 and built internal health-tracking tools at [Roblox](https://corp.roblox.com/technology/) during summer 2021.
+## What I do for fun
+I don't consume mass media. I'm not on TikTok, Youtube, Twitch, Discord, BeReal, etc. I don't have any streaming subscriptions, and the only TV I watch is sports -- specifically the NFL, NBA, NCAA, and tennis. The only news publication I subscribe to is [The Economist](https://www.economist.com).
 
-I will be working as a software engineer at [Five Rings Capital](https://fiverings.com) during January 2022.
+I like to read, bake, hike, and plan trips. Occasionally I watch film. My favorite movie is [Burning](https://www.imdb.com/title/tt7282468/), and I tend to like short stories and films that make me question what I see on screen.
 
-[Check out](../courses) a list of the classes I've taken.
-
-### Curiosities
-Despite going to an engineering school, I still am very much fascinated by the humanities. I currently enjoy reading about the political economy, [cliodynamics](http://peterturchin.com/cliodynamics/), abstract expressionism, and classical Chinese literature. Do [email](mailto:mflong00@gmail.com) me if you want to talk or have a book recommendation!
-
-### Goals (in no particular order)
-* Visit 10 countries during my time at MIT (7 more to go!)
-* Take 6.115
-* Keep track of visiting Harvard lecturers
-* Read 10+ books a year
-* Volunteer abroad
-* Read the [4 classic Chinese novels](https://en.wikipedia.org/wiki/Classic_Chinese_Novels)
-* Build a city in space
-
-### Favorite reads
+# Favorites
+## Books
 * *Cien años de soledad*
 * East of Eden
 * Count of Monte Cristo
 * Guns, Germs, and Steel
+* Anna Karenina
 * Madame Bovary
 * Late Victorian holocausts: El Niño famines and the making of the Third World
 * Why Nations Fail
 * The Banished Immortal: A life of Li Bai
-* *Romance sonámbulo*
-* *Veinte poemas de amor y una canción desesperada*
 * Kafka on the Shore
 * The Forever War
 * The Three Body Problem trilogy
@@ -52,5 +57,24 @@ Despite going to an engineering school, I still am very much fascinated by the h
 * Pachinko
 * All the Light We Cannot See
 
-### Why I didn't make my own Jekyll theme
-Honestly I'm not the best designer so I found a Jekyll theme that looked cool, revamped it, and deployed it. I just want to share my thoughts and some projects. If you're interested in my resume, please [email me](mailto:mflong00@gmail.com)!
+## Poems
+* [*Romance sonámbulo*](https://poets.org/poem/romance-sonambulo#spanish)
+* *Veinte poemas de amor y una canción desesperada*
+    * [*Poema VII*](https://www.gavilan.edu/academic/spanish/gaspar/html/27_09.html)
+    * [*Poema XX*](https://www.gavilan.edu/academic/spanish/gaspar/html/27_22.html)
+* [*虞美人*](https://www.consolatio.com/2013/01/li-yu-how-much-sorrow-can-there-be-.html)
+
+
+## Quotes
+**[*Seven Pillars of Wisdom*](https://www.goodreads.com/book/show/57936.Seven_Pillars_of_Wisdom), T.E. Lawrence**   
+I loved you, so I drew these tides of   
+Men into my hands   
+And wrote my will across the    
+Sky and stars.
+<br/><br/> 
+   
+**[*Why Literature?*](https://newrepublic.com/article/78238/mario-vargas-llosa-literature), Mario Vargas Llosa**   
+But literature has been, and will continue to be, as long as it exists, one of the common denominators of human experience through which human beings may recognize themselves and converse with each other, no matter how different their professions, their life plans, their geographical and cultural locations, their personal circumstances. It has enabled individuals, in all the particularities of their lives, to transcend history: as readers of Cervantes, Shakespeare, Dante, and Tolstoy, we understand each other across    space and time, and we feel ourselves to be members of the same species because, in the works that these writers created, we learn what we share as human beings, what remains common in all of us under the broad range of differences that separate us. 
+
+**[*Kafka on the Shore*](https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore?ac=1&from_search=true&qid=ggDp0LyIhk&rank=1), Haruki Murakami**   
+Memories warm you up from the inside but they also tear you apart.

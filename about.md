@@ -6,13 +6,13 @@ excerpt: Hello, I'm just a college student trying to untangle my thoughts.
 comments: false
 ---
 # Currently
-* I'm studying abroad at ETH Zurich (EECS) for fall 2022. I'm also embarking on a northern Europe tour (UK, Copenhagen, Stockholm) from now until Sept. 5.
-* I'm training for my [first marathon](https://www.athensauthenticmarathon.gr) in Athens, Greece on Nov. 12. A friend spontaneously convinced me to sign up in early July. I've never competitively ran more than a 5k so feel free to give me any tips!
+* I'm studying abroad at ETH Zurich (EECS) for fall 2022 in the electrical engineering department.
+* I'm training for my [first marathon](https://www.athensauthenticmarathon.gr) in Athens, Greece on Nov. 13. A friend spontaneously convinced me to sign up in early July. Before then, I've never competitively ran more than a 5k. I ran my first half-marathon a month ago in Uster, Switzerland in 2:05.
 * I'm an arts editor for [The Tech](https://thetech.com). I try to [write](https://thetech.com/authors/mindy-long) timely articles on books and food.
-* I'm deciding where I want to work after I graduate in June 2023. I was recently admitted into [Neo's Startup Connect](https://neo.com), where I've stumbled across some really amazing companies. Generally, I'm interested in early-stage, high-growth startups doing work in space infrastructure, fintech, and social good. Things that stand out to me: engineers driving product decisions, talking directly to consumers, working around the tech stack, wearing multiple hats👷‍♀️⚒️
+* I'm an incoming spring intern at Augment, a pre-seed company I discovered as part of the [Neo Scholar](https://neo.com) network. Generally, I'm interested in early-stage, high-growth startups doing work in space infrastructure, fintech, and computer systems. Things that stand out to me: challenging problems, smart coworkers, engineers driving product decisions, talking directly to consumers, wearing multiple hats👷‍♀️⚒️
 
 # Previously
-* I recently wrapped up an internship on Stripe's [Financial Connections](https://stripe.com/financial-connections) platform. I researched, designed, and implemented an ownership parser and address matching algorithm for fraud detection.
+* I wrapped up an internship on Stripe's [Financial Connections](https://stripe.com/financial-connections) platform. I researched, designed, and implemented an ownership parser and address matching algorithm for fraud detection.
 * I created and managed teams at [HackMIT](https://hackmit.org). I spearheaded the development and release of our [first mobile app](https://apps.apple.com/us/app/hackmit/id1582182786) and maintained our in-house [project submission platform](https://spectacle.hackmit.org).
 * I built a controllable, line-tracking [robot](https://www.dropbox.com/s/pf0zssbjoezy4pc/6.115-final-project-motorized-cart.MOV?dl=0) with obstacle detection. 
 * I was the first iOS engineer on [Improve the News](https://apps.apple.com/us/app/improve-the-news/id1554856339), a smart news aggregator. I built the app during summer 2020 while working with [Prof. Max Tegmark](https://space.mit.edu/home/tegmark/) on a new bias project. Check it out!

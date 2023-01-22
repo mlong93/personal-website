@@ -287,12 +287,13 @@
 // Post title
 .header {
   margin-bottom: 3em;
+  text-align: center;
 
   .pinned-label {
     margin-left: 3px;
     font-size: $small-font-size + 1;
     letter-spacing: 0.5px;
-    color: $bright-gray;
+    color: $gray;
     margin-bottom: -5px;
   }
 
@@ -324,6 +325,13 @@
       font-size: 1.9em;
     }
   }
+}
+
+.post-description {
+  margin-top: -15px;
+  color: $gray;
+  font-size: 120%;
+  text-align: center;
 }
 
 .not-found {

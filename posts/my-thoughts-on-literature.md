@@ -1,9 +1,7 @@
 ---
 title: My thoughts on literature
 date: 2020-12-23 10:00:00 -07:00
-tags: [literature, personal]
-description: An ongoing puzzle
-pinned: true
+description: A love letter
 ---
 I could pick up a pen – or my laptop – and write an essay about why people should read. Fortunately, Mario Vargas Llosa freed me from that task already with his extraordinary essay, <em><a href="https://newrepublic.com/article/78238/mario-vargas-llosa-literature">Why Literature</a></em>. So instead, I’ll write about what I learned from literature and what I’m still learning. Check this post periodically for more content!
 

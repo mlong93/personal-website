@@ -8,6 +8,7 @@ layout: compress
 {% include header.html %}
 
 <body class="notransition">
+  {% include navbar.html %}
   <div class="wrapper post">
     <main class="page-content" aria-label="Content">
       <article itemscope itemtype="https://schema.org/BlogPosting">
@@ -36,9 +37,6 @@ layout: compress
             <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
               {{ page.date | date: "%b %d, %Y" }}
             </time>
-            <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-              <span itemprop="name">{{ site.author.name }}</span>
-            </span>
             <time hidden datetime="{{ page.modified | date_to_xmlschema }}" itemprop="dateModified">
               {{ page.date | date: "%b %d, %Y" }}
             </time>
@@ -48,17 +46,13 @@ layout: compress
           </div>
           {% endif %}
         </header>
+        <div class="post-content e-content" itemprop="articleBody">
+          {{ content }}
+        </div>
+      
       </article>
-    
-      {% if page.comments %}
-        {% include comments.html %}
-      {% endif %}
-
     </main>
 
-    {% if page.modified %}
-      <small class="post-updated-at">updated_at {{page.modified | date: "%d-%m-%Y"}}</small>
-    {% endif %}
     {% if page.next or page.previous %}
       {% include navigation.html %}
     {% endif %}

@@ -5,7 +5,15 @@
   font-style: normal;
   font-weight: 400;
   src: local("Garamond"), local("Garamond-Regular"),
-    url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&display=swap')
+    url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet')
+}
+
+@font-face {
+  font-family: "EB Garamond";
+  font-style: normal;
+  font-weight: 500;
+  src: local("Garamond"), local("Garamond-Semibold"),
+    url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet')
 }
 
 @font-face {
@@ -13,7 +21,7 @@
   font-style: normal;
   font-weight: 700;
   src: local("Garamond"), local("Garamond-Bold"),
-    url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&display=swap')
+    url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet')
 }
 
 @font-face {
@@ -21,7 +29,7 @@
   font-style: italic;
   font-weight: 400;
   src: local("Garamond"), local("Garamond-Italic"),
-    url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&display=swap')
+    url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet')
 }
 
 @font-face {
@@ -29,7 +37,7 @@
   font-style: italic;
   font-weight: 700;
   src: local("Garamond"), local("Garamond-BoldItalic"),
-    url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&display=swap')
+    url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet')
 }
 
 /* latin */

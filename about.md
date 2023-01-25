@@ -76,6 +76,11 @@ I primarily read classics, sci-fi, history, and the political economy, in that o
 <br/><br/> 
 
 ## Quotes
+In no particular order.
+
+**["Quit Your Job"](https://www.palladiummag.com/2022/01/06/quit-your-job), Wolf Tivy**
+To make such bets you must be indifferent at some level to whether you end up a king or a monk, or even dead. The indeterminate hedge-trader with his logarithmic utility function assigns infinite negative utility to ruin. The man of action serenely regards ruin as the most likely possible outcome, mitigates it where he can, and leaps anyway. He rejects the comfortable half-existence of drifting with the indeterminate human tide and manifests his bold vision into the world. 
+
 **[*Seven Pillars of Wisdom*](https://www.goodreads.com/book/show/57936.Seven_Pillars_of_Wisdom), T.E. Lawrence**   
 I loved you, so I drew these tides of   
 Men into my hands   

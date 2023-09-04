@@ -5,16 +5,12 @@ layout: page
 comments: false
 ---
 # Currently
-* I'm starting my last semester at MIT. I'm planning on pursuing my M.Eng. in EECS with a concentration in computer systems in fall 2023.
-* I'm an arts editor for [The Tech](https://thetech.com). I try to [write](https://thetech.com/authors/mindy-long) timely articles on books and food.
-* I'm decarbonizing the freight industry at [Parallel Systems](https://moveparallel.com) in summer 2023. I'm interested in early-stage startups doing work in space infrastructure or computer systems. Things that stand out to me: challenging problems, smart coworkers, and potential impact.
+* I graduated from MIT in June 2023. I'm working as a software engineer at a generative 3D startup in San Francisco.
 
 # Previously
 * I finished my [first marathon](https://www.athensauthenticmarathon.gr) in Athens, Greece in November. My time was 4:51:16. A friend spontaneously convinced me to sign up in early July. Before then, I've never competitively ran more than a 5k. Check out [this vlog](https://www.youtube.com/watch?v=kiXPgtuylnk) my friend made about our marathon!
 * Together with a team of 9, I won [first overall](https://www.nasa.gov/feature/collegiate-teams-take-home-honors-in-20th-rasc-al-forum) at NASA RASC-AL's 2022 Design Competition. Here's [our paper](https://arc-aiaa-org.libproxy.mit.edu/doi/10.2514/6.2022-4315) we presented at ASCEND 2022 and are currently publishing. The theme we chose was "Mars Water-Based ISRU Architecture" and the goal was to design an architecture to supply 50 tons of propellant in 5 years. I'm interested in space infrastructure, and one of my dreams is to build a city in space.
-* I built a controllable, line-tracking [robot](https://www.dropbox.com/s/pf0zssbjoezy4pc/6.115-final-project-motorized-cart.MOV?dl=0) with obstacle detection. 
 * I created and managed teams at [HackMIT](https://hackmit.org). I spearheaded the development and release of our [first mobile app](https://apps.apple.com/us/app/hackmit/id1582182786) and maintained our in-house [project submission platform](https://spectacle.hackmit.org).
-* I was the first iOS engineer on [Improve the News](https://apps.apple.com/us/app/improve-the-news/id1554856339), a smart news aggregator. I built the app during summer 2020 while working with [Prof. Max Tegmark](https://space.mit.edu/home/tegmark/) on a new bias project. Check it out!
 * [Email me](mailto:mflong00@gmail.com) 📩 to learn more about my work!
 
 # Interests
@@ -65,6 +61,7 @@ I primarily read classics, sci-fi, history, and the political economy, in that o
 * Love in a Fallen City
 * Midnight's Children
 * Dandelion Dynasty series
+* My Name is Red
 <br/><br/> 
 
 ## Poems
